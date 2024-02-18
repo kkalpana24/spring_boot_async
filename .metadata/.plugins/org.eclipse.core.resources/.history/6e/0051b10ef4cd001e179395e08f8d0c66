@@ -1,0 +1,5 @@
+package com.javapractice.purchaseorder.config;
+
+public class AsyncConfiguration {
+
+}

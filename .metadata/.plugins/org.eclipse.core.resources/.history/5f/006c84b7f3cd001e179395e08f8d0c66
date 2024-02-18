@@ -1,0 +1,5 @@
+package com.javapractice.purchaseorder.dto;
+
+public class Order {
+
+}

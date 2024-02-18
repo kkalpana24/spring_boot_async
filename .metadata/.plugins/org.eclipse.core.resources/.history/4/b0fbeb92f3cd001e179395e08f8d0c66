@@ -1,0 +1,5 @@
+package com.javapractice.purchaseorder.service;
+
+public class PaymentService {
+
+}
